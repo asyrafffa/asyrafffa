@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asyrafffa
 - 👀 I’m interested in Data Science, Deep Learning and Artificial Intelligence.
-- 🌱 I’m currently learning doing some project related to predictions and Power BI.
+- 🌱 I’m currently learning by doing some projects.
 - 📫 How to reach me asyrafffa21@gmail.com
 
 <!---
