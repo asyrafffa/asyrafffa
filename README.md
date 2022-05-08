@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asyrafffa
+- 👋 Hi, I’m Asyraff
 - 👀 I’m interested in Data Science, Deep Learning and Artificial Intelligence.
 - 🌱 I’m currently learning by doing some projects.
 - 📫 How to reach me asyrafffa21@gmail.com
