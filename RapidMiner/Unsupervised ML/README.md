@@ -1,0 +1,3 @@
+- This file contain RapidMiner processes file from preprocessing to applying machine learning model
+- The model use in this process is K-means
+- Dataset is from Kaggle
