@@ -1,0 +1,4 @@
+- This is a group projects consist of 3 peoples from my class.
+- The datasource is from Kaggle.
+- We created database and schemas using DDL (Data Definition Language) methods.
+- Then we analyse and manipulate our data using DML (Data Manipulation Language) methods.
