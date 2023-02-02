@@ -1,1 +1,1 @@
-- This file
+- This file contains notebook for crops images classification using Support Vector Machines classifier
