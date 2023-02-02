@@ -1,1 +1,2 @@
-- This file contains notebook for crops images classification using Support Vector Machines classifier
+- This file contains notebook for crops images classification using Support Vector Machines classifier.
+- Accuracy of this model is 92%
