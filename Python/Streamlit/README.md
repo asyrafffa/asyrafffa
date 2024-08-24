@@ -16,3 +16,7 @@ Streamlit is an open-source Python library that makes it easy to create and shar
 
    ```bash
    pip install streamlit
+
+## References and Resources
+[Streamlit Documentation](https://docs.streamlit.io/)
+[Streamlit Community](https://discuss.streamlit.io/)
