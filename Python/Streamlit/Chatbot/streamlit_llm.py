@@ -21,7 +21,7 @@ def get_response(user_query, chat_history):
     prompt = ChatPromptTemplate.from_template(template)
 
     # Using LM Studio Local Inference Server
-    llm = ChatOpenAI(base_url="http://localhost:1234/v1")
+    llm = ChatOpenAI(base_url={your_url}, api_key={your_api_key})
 
     chain = prompt | llm | StrOutputParser()
     
