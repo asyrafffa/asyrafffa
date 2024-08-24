@@ -16,8 +16,7 @@ This is a simple OCR (Optical Character Recognition) app built using Streamlit a
 
    ```bash
    pip install -r requirements.txt
-2. Start the LM Studio Inference Server
 
-3. Run the Python script
+2. Run the Python script
    ```bash
    python streamlit_paddleocr.py
