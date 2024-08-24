@@ -22,5 +22,5 @@ This project demonstrates how to stream responses from a local Large Language Mo
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone [https://github.com/yourusername/your-repository.git](https://github.com/asyrafffa/My-Projects/tree/main/Python/Streamlit/Chatbot)
    cd your-repository
