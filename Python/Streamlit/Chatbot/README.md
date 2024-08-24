@@ -28,3 +28,8 @@ This project demonstrates how to stream responses from a local Large Language Mo
 3. Run the Python script
    ```bash
    python streamlit_llm.py
+
+## References
+
+- [LM Studio Inference Server Documentation](https://docs.lmstudio.com/inference-server)
+- [Streaming Local LLM Responses with LM Studio Inference Server](https://medium.com/@ingridwickstevens/streaming-local-llm-responses-with-lm-studio-inference-server-cce3f78b2522)
