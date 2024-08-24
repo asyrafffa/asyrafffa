@@ -24,3 +24,7 @@ This project demonstrates how to stream responses from a local Large Language Mo
    ```bash
    pip install -r requirements.txt
 2. Start the LM Studio Inference Server
+
+3. Run the Python script
+   ```bash
+   python streamlit_llm.py
