@@ -19,8 +19,8 @@ This project demonstrates how to stream responses from a local Large Language Mo
 
 ### Installation
 
-1. **Clone the repository:**
+1. Install required Python packages
 
    ```bash
-   git clone [https://github.com/yourusername/your-repository.git](https://github.com/asyrafffa/My-Projects/tree/main/Python/Streamlit/Chatbot)
-   cd your-repository
+   pip install -r requirements.txt
+2. Start the LM Studio Inference Server
