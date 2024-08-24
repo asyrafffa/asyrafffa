@@ -10,8 +10,14 @@ This is a simple OCR (Optical Character Recognition) app built using Streamlit a
 
 ## Installation
 
-1. **Clone the repository:**
+### Installation
+
+1. Install required Python packages
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   pip install -r requirements.txt
+2. Start the LM Studio Inference Server
+
+3. Run the Python script
+   ```bash
+   python streamlit_paddleocr.py
