@@ -1,19 +1,5 @@
 # LangFlow RAG Agent Portfolio
 
-![Project Banner](https://github.com/your-username/your-repository-name/blob/main/banner.png)
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Setup & Installation](#setup--installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Introduction
 
 Welcome to the **LangFlow RAG Agent** project! This repository showcases a Retrieval-Augmented Generation (RAG) agent built using LangFlow, AstraDB, and a local Large Language Model (LLM). The project demonstrates how to efficiently ingest, manage, and retrieve information from PDF documents to power intelligent agent responses.
@@ -50,14 +36,21 @@ Follow these steps to set up and run the LangFlow RAG Agent on your local machin
 ### Prerequisites
 
 - **Python 3.8+**
-- **Node.js & npm** (for frontend dependencies, if any)
 - **AstraDB Account**: Sign up at [AstraDB](https://www.datastax.com/products/datastax-astra) and obtain your database credentials.
 - **LM Studio**: Ensure LM Studio is installed and the Hermes-3-llama-3.2-3b model is available.
 
 ### Installation Steps
 
-1. **Clone the Repository**
+1. **Sing Up AstraDB and Install Langflow**
+[AstraDB]: https://www.datastax.com/products/datastax-astra
 
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
-   cd your-repository-name
+I am using uv so:
+uv pip install langflow
+
+2. **Run Langflow**
+uv run langflow run
+
+3. **Import LangFlow flow**
+import Single Agent.json
+
+4. **Start LM Studio**
