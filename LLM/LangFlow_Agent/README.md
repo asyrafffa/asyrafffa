@@ -54,10 +54,10 @@ uv run langflow run
 - Langflow will run on http://127.0.0.1:7860
 
 2. **Import LangFlow flow**
--- import Single Agent.json
+  - import Single Agent.json
 
 3. **Start LM Studio Server**
--- LM Studio server = http://localhost:1234/v1
+  - LM Studio server = http://localhost:1234/v1
 
 4. **Input AstraDB Application Token and API Endpoint**
--- The Application Token and API Endpoint can be create after you create a database in AstraDB.
+  - The Application Token and API Endpoint can be create after you create a database in AstraDB.
