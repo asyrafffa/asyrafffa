@@ -42,16 +42,17 @@ Follow these steps to set up and run the LangFlow RAG Agent on your local machin
 ### Installation Steps
 
 1. **Sing Up AstraDB and Install Langflow**
+
 [AstraDB]: https://www.datastax.com/products/datastax-astra
 
 I am using uv so:
 ```bash
+## Install langflow
 uv pip install langflow
 
-2. **Run Langflow**
+## Run Langflow
 uv run langflow run
-
-3. **Import LangFlow flow**
+```
+2. **Import LangFlow flow**
 import Single Agent.json
 
-4. **Start LM Studio**
