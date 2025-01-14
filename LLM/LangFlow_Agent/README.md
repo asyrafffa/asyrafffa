@@ -45,6 +45,7 @@ Follow these steps to set up and run the LangFlow RAG Agent on your local machin
 [AstraDB]: https://www.datastax.com/products/datastax-astra
 
 I am using uv so:
+```bash
 uv pip install langflow
 
 2. **Run Langflow**
