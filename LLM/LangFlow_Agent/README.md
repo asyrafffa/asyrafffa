@@ -41,9 +41,7 @@ Follow these steps to set up and run the LangFlow RAG Agent on your local machin
 
 ### Installation Steps
 
-1. **Sing Up AstraDB and Install Langflow**
-
-[AstraDB]: https://www.datastax.com/products/datastax-astra
+1. **Install and run Langflow**
 
 I am using uv so:
 ```bash
@@ -53,6 +51,13 @@ uv pip install langflow
 ## Run Langflow
 uv run langflow run
 ```
-2. **Import LangFlow flow**
-import Single Agent.json
+- Langflow will run on http://127.0.0.1:7860
 
+2. **Import LangFlow flow**
+- import Single Agent.json
+
+3. **Start LM Studio Server**
+- LM Studio server = http://localhost:1234/v1
+
+4. **Input AstraDB Application Token and API Endpoint**
+- The Application Token and API Endpoint can be create after you create a database in AstraDB.
