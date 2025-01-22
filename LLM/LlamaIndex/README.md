@@ -20,9 +20,6 @@ Before running the project, ensure you have the following installed:
 ## Installation
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
 
 2. Install the required Python libraries:
     ```bash
@@ -44,13 +41,13 @@ Before running the project, ensure you have the following installed:
 ## Code Overview
 
 The main components of the code are:
-1. Document Loading:
+1. **Document Loading**:
 - Documents are loaded from the **documents** folder using **SimpleDirectoryReader**.
-2. Vector Store:
+2. **Vector Store**:
 - **LanceDB** is used as the vector store for efficient storage and retrieval of embeddings.
-3. LLM Integration:
+3. **LLM Integration**:
 - The **LM Studio** LLM is used for querying the indexed documents. The LLM is hosted locally and accessed via the LM Studio API.
-4. Interactive Querying:
+4. **Interactive Querying**:
 - The program runs in a loop, allowing users to ask multiple questions until they decide to quit.
 
 ## Customization
