@@ -23,7 +23,7 @@ Before running the project, ensure you have the following installed:
 
 2. Install the required Python libraries:
     ```bash
-    pip install llama-index-core llama-index-llms-lmstudio llama-index-embeddings-huggingface lancedb
+    pip install -r requirements.txt
     ```
 3. Place your documents in the documents folder. These will be indexed by LlamaIndex.
 4. Start LM Studio and host your LLM locally. Ensure the API is accessible at http://localhost:1234/v1.
